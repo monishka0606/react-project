@@ -5,7 +5,7 @@ import Header from './Header';
 import Component from './Component';
 
 function upi(){
-  alert("i am clicked");  
+  alert("i am clicked two times");  
 }
 
 function App() {
